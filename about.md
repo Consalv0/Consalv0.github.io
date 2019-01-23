@@ -15,33 +15,27 @@ Student of Video Game Programming in [SAE Institute](https://mexico.sae.edu/) si
 
 # Software
 
-> ![Visual Studio 2018](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Visual_Studio_2017_logo_and_wordmark.svg/1920px-Visual_Studio_2017_logo_and_wordmark.svg.png){:height="40%" width="40%"}
-> ![Visual Studio Code](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1024px-Visual_Studio_Code_1.18_icon.svg.png){:height="8%" width="8%"}
+> ![Visual Studio Code](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1024px-Visual_Studio_Code_1.18_icon.svg.png) ![Visual Studio 2018](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Visual_Studio_2017_logo_and_wordmark.svg/1920px-Visual_Studio_2017_logo_and_wordmark.svg.png)
 
 ---
 
-> ![Git](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1920px-Git-logo.svg.png){:height="15%" width="15%"}
+> ![Unity Technologies](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Unity_Technologies_logo.svg/1920px-Unity_Technologies_logo.svg.png) ![Unreal Engine](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/UE_Logo_Black_Centered.svg/800px-UE_Logo_Black_Centered.svg.png)
 
 ---
 
-> ![Unity Technologies](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Unity_Technologies_logo.svg/1920px-Unity_Technologies_logo.svg.png){:height="20%" width="20%"}
-> ![Unreal Engine](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/UE_Logo_Black_Centered.svg/800px-UE_Logo_Black_Centered.svg.png){:height="8%" width="8%"}
+> ![Git](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1920px-Git-logo.svg.png)
 
 ---
 
-> ![Autodesk Maya](https://upload.wikimedia.org/wikipedia/en/7/75/Logo_of_Maya.png){:height="20%" width="20%"}
-> ![Blender 3D](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Logo_Blender.svg/1920px-Logo_Blender.svg.png){:height="20%" width="20%"}
+> ![Autodesk Maya](https://upload.wikimedia.org/wikipedia/en/7/75/Logo_of_Maya.png) ![Blender 3D](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Logo_Blender.svg/1920px-Logo_Blender.svg.png)
 
 ---
 
-> ![Adobe Photoshop](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1024px-Adobe_Photoshop_CC_icon.svg.png){:height="10%" width="10%"}
-> ![Affinity Photo](https://upload.wikimedia.org/wikipedia/en/2/2f/Affinity_Photo_Logo_2017.png){:height="10%" width="10%"}
+> ![Adobe Photoshop](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1024px-Adobe_Photoshop_CC_icon.svg.png) ![Affinity Photo](https://upload.wikimedia.org/wikipedia/en/2/2f/Affinity_Photo_Logo_2017.png)
 
 ## Operating Systems
 
-> ![MacOS](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/MacOS_wordmark_%282017%29.svg/1920px-MacOS_wordmark_%282017%29.svg.png){:height="20%" width="20%"}
-> ![Windows 10](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Windows_10_Logo.svg/1920px-Windows_10_Logo.svg.png){:height="20%" width="20%"}
-> ![Ubuntu](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Logo-ubuntu_no%28r%29-black_orange-hex.svg/1920px-Logo-ubuntu_no%28r%29-black_orange-hex.svg.png){:height="20%" width="20%"}
+> ![MacOS](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/MacOS_wordmark_%282017%29.svg/1920px-MacOS_wordmark_%282017%29.svg.png) ![Windows 10](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Windows_10_Logo.svg/1920px-Windows_10_Logo.svg.png) ![Ubuntu](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Logo-ubuntu_no%28r%29-black_orange-hex.svg/1920px-Logo-ubuntu_no%28r%29-black_orange-hex.svg.png)
 
 # Experience
 
