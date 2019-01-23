@@ -1,19 +1,19 @@
 ---
 layout: page
 title: About Me
-tagline: A few acknowledges about me
+tagline: Video Game Programmer, Computer Graphics Fanatic
 permalink: /me.html
 ---
 
-# Abilities
+Student of Video Game Programming in [SAE Institute](https://mexico.sae.edu/) since January, 2017. I have worked in the industry while studying for half a year as developer in Unity with a variety of knowledge in computer graphics and technical tools for designers. Adept at working in teams sharing ideas and opinions. Passionate about shaders, render techniques, learning optimization techniques and toon-like & photorealistic shading.
 
-## Languages
+# Languages
 
 | Mastered      | Have Used            |
 | ------------- | -------------------- |
 | C#, C++ and C | GLSL, ECMAScript 6-7 |
 
-## Software
+# Software
 
 > ![Visual Studio 2018](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Visual_Studio_2017_logo_and_wordmark.svg/1920px-Visual_Studio_2017_logo_and_wordmark.svg.png){:height="40%" width="40%"}
 > ![Visual Studio Code](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1024px-Visual_Studio_Code_1.18_icon.svg.png){:height="8%" width="8%"}
@@ -37,8 +37,36 @@ permalink: /me.html
 > ![Adobe Photoshop](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1024px-Adobe_Photoshop_CC_icon.svg.png){:height="10%" width="10%"}
 > ![Affinity Photo](https://upload.wikimedia.org/wikipedia/en/2/2f/Affinity_Photo_Logo_2017.png){:height="10%" width="10%"}
 
-## Experience
+## Operating Systems
 
-## Education
+> ![MacOS](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/MacOS_wordmark_%282017%29.svg/1920px-MacOS_wordmark_%282017%29.svg.png){:height="20%" width="20%"}
+> ![Windows 10](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Windows_10_Logo.svg/1920px-Windows_10_Logo.svg.png){:height="20%" width="20%"}
+> ![Ubuntu](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Logo-ubuntu_no%28r%29-black_orange-hex.svg/1920px-Logo-ubuntu_no%28r%29-black_orange-hex.svg.png){:height="20%" width="20%"}
 
-[Visit my Blog]({{ site.url }}{{ site.baseurl }})
+# Experience
+
+> ## EstaciónPi
+>
+> <dl>
+> <dt>Technical Artist</dt>
+> <span class="post-meta">06/2018 - 12/2018</span>
+> </dl>
+>   - Shaders using Amplify Shader Graph
+>   - Level building
+>   - Illumination, Postprocessing
+
+# Education
+
+> ## SAE Institute México
+>
+> <dl>
+> <dt>Games Programming</dt>
+> <span class="post-meta">01/2017 - 12/2020</span>
+> </dl>
+>   - In partnership with Middlesex University
+>   - Understanding and application in Game Programming tools
+>   - Games an the impact in society
+
+---
+
+[Visit my Blog!]({{ site.url }}{{ site.baseurl }})
