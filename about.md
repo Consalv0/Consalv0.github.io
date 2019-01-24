@@ -9,9 +9,9 @@ Student of Video Game Programming in [SAE Institute](https://mexico.sae.edu/) si
 
 # Languages
 
-| Mastered      | Have Used            |
-| ------------- | -------------------- |
-| C#, C++ and C | GLSL, ECMAScript 6-7 |
+| Mastered      | Used In projects          |
+| ------------- | ------------------------- |
+| C#, C++ and C | Lua, GLSL, ECMAScript 6-7 |
 
 # Software
 
@@ -31,7 +31,7 @@ Student of Video Game Programming in [SAE Institute](https://mexico.sae.edu/) si
 
 ---
 
-> ![Adobe Photoshop](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1024px-Adobe_Photoshop_CC_icon.svg.png) ![Affinity Photo](https://upload.wikimedia.org/wikipedia/en/2/2f/Affinity_Photo_Logo_2017.png)
+> ![Adobe Photoshop](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1024px-Adobe_Photoshop_CC_icon.svg.png) ![Affinity Photo](https://upload.wikimedia.org/wikipedia/en/2/2f/Affinity_Photo_Logo_2017.png) ![Substance Painter 3D](https://www.allegorithmic.com/sites/default/files/SP_Black_Title_1.png)
 
 ## Operating Systems
 
@@ -55,7 +55,7 @@ Student of Video Game Programming in [SAE Institute](https://mexico.sae.edu/) si
 >
 > <dl>
 > <dt>Games Programming</dt>
-> <span class="post-meta">01/2017 - 12/2020</span>
+> <span class="post-meta">01/2017 - 12/2019</span>
 > </dl>
 >   - In partnership with Middlesex University
 >   - Understanding and application in Game Programming tools
