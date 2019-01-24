@@ -42,9 +42,10 @@ Student of Video Game Programming in [SAE Institute](https://mexico.sae.edu/) si
 > ## EstaciónPi
 >
 > <dl>
-> <dt>Technical Artist</dt>
+> <dt>Technical Artist & VFX Artist</dt>
 > <span class="post-meta">06/2018 - 12/2018</span>
 > </dl>
+>   - Particles, and environment.
 >   - Shaders using Amplify Shader Graph
 >   - Level building
 >   - Illumination, Postprocessing
