@@ -6,6 +6,12 @@ tagline: Here are my most precious and important projects!
 
 ---
 
+# Deform shader for GGJ19 <a href="https://github.com/Indiees/superparty/tree/gonzalo" class="btn right"> Repository </a>
+
+> Example of shader using **Unity 3D**. You can give via C# script the positions to the shader, in the shader you can manipulate the radius and the force of the deformation, whit this you can simulate explosions or sound affecting any geometry.
+
+![OGLApp Main](/DeformShader-O3.gif){:class="center"}
+
 # OGLApp <a href="https://github.com/Consalv0/OGLApp" class="btn right"> Repository </a>
 
 > A **C++** engine prototype to learn how render pipelines work, model loading, fragment and vertex shader, shadow mapping, render textures, Microfacet Shaders, Toon Shaders, and bone animations. All using **OpenGL 3** to render the scene, **Lua** to modify the scenes in real time and **YAML** to parse scenes for initial launch.
