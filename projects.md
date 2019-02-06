@@ -8,16 +8,17 @@ tagline: Here are my most precious and important projects!
 
 # Deform shader for GGJ19 <a href="https://github.com/Indiees/superparty/tree/gonzalo" class="btn right"> Repository </a>
 
-> Example of shader using **Unity 3D**. You can give via C# script the positions to the shader, in the shader you can manipulate the radius and the force of the deformation, whit this you can simulate explosions or sound affecting any geometry.
+> Example of shader using **Unity 3D**. You can give via C# script the positions to the shader, in the shader you can manipulate the radius and the force of the deformation, with this you can simulate explosions or sound affecting any geometry.
 
-![OGLApp Main](/DeformShader-O3.gif){:class="center"}
+<!-- ![OGLApp Main](/DeformShader-O3.gif){:class="center"} -->
+<iframe src="https://giphy.com/embed/1xVbV4HHM6ldM2wokJ" frameBorder="0" class="center" allowFullScreen></iframe>
 
 # OGLApp <a href="https://github.com/Consalv0/OGLApp" class="btn right"> Repository </a>
 
 > A **C++** engine prototype to learn how render pipelines work, model loading, fragment and vertex shader, shadow mapping, render textures, Microfacet Shaders, Toon Shaders, and bone animations. All using **OpenGL 3** to render the scene, **Lua** to modify the scenes in real time and **YAML** to parse scenes for initial launch.
 
-![OGLApp Main](/OGLApp-Main.gif){:class="center"}
-<!-- <iframe src="http://www.youtube.com/embed/WO82PoAczTc" frameborder="0" class="center"> </iframe> -->
+<!-- ![OGLApp Main](/OGLApp-Main.gif){:class="center"} -->
+<iframe src="https://giphy.com/embed/2sg7JtFv9y1U2p2SEF" frameBorder="0" class="center" allowFullScreen></iframe>
 
 ---
 
@@ -25,7 +26,8 @@ tagline: Here are my most precious and important projects!
 
 > Map generator using Perlin's noise with **Unity 3D**, the models are pieces made apart and used as bricks to build chunks, and because of the draw calls, the models are merged in a single one, as a fast approach to texturing the terrain I made a shader using the vertex normal direction to select the correspondent texture.
 
-![Game Jam](/PGJPrueba1-O3.gif){:class="center"}
+<!-- ![Game Jam](/PGJPrueba1-O3.gif){:class="center"} -->
+<iframe src="https://giphy.com/embed/1AhQeQxMVLfYuajoqH" frameBorder="0" class="center" allowFullScreen></iframe>
 
 ---
 
@@ -33,7 +35,8 @@ tagline: Here are my most precious and important projects!
 
 > Prototype made in 2017 for a game in **Unity 3D**, using skeletal animation with physics, the shaders have a gradient for the shading.
 
-![OGLApp Main](/Raygame.gif){:class="center"}
+<!-- ![OGLApp Main](/Raygame.gif){:class="center"} -->
+<iframe src="https://giphy.com/embed/jxzhrdMsSOrxKWvDo0" frameBorder="0" class="center" allowFullScreen></iframe>
 
 ---
 
