@@ -8,9 +8,10 @@ tagline: Here are my most precious and important projects!
 
 # OGLApp <a href="https://github.com/Consalv0/OGLApp" class="btn right"> Repository </a>
 
-> A **C++** engine prototype to learn how render pipelines work, model loading, fragment and vertex shader, shadow mapping, render textures, Microfacet Shaders, Toon Shaders, and bone animations using **OpenGL 3** to render the scene, **Lua** to modify the scenes in real time and **YAML** to parse scenes for initial launch.
+> A **C++** engine prototype to learn how render pipelines work, model loading, fragment and vertex shader, shadow mapping, render textures, Microfacet Shaders, Toon Shaders, and bone animations. All using **OpenGL 3** to render the scene, **Lua** to modify the scenes in real time and **YAML** to parse scenes for initial launch.
 
 ![OGLApp Main](/OGLApp-Main.gif){:class="center"}
+<!-- <iframe src="http://www.youtube.com/embed/WO82PoAczTc" frameborder="0" class="center"> </iframe> -->
 
 ---
 

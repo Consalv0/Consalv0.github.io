@@ -274,6 +274,21 @@ a {
     }
   }
 
+  iframe {
+    @include large {
+      height: 27rem;
+    }
+  
+    @include medium {
+      height: 25rem;
+    }
+  
+    @include small {
+      height: 20rem;
+    }
+  
+  }
+
   p {
     margin-bottom: 1em;
   }

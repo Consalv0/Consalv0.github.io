@@ -9,9 +9,9 @@ Student of Video Game Programming in [SAE Institute](https://mexico.sae.edu/) si
 
 # Languages
 
-| Mastered      | Used In projects          |
-| ------------- | ------------------------- |
-| C#, C++ and C | Lua, GLSL, ECMAScript 6-7 |
+| Decent Knowledge      | Used In projects          |
+| --------------------- | ------------------------- |
+| C#, C++, C and GLSL   | Lua, ECMAScript 6-7       |
 
 # Software
 
