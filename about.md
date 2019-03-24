@@ -33,10 +33,6 @@ Student of Video Game Programming in [SAE Institute](https://mexico.sae.edu/) si
 
 > ![Adobe Photoshop](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1024px-Adobe_Photoshop_CC_icon.svg.png) ![Affinity Photo](https://upload.wikimedia.org/wikipedia/en/2/2f/Affinity_Photo_Logo_2017.png) ![Substance Painter 3D](https://www.allegorithmic.com/sites/default/files/SP_Black_Title_1.png)
 
-## Operating Systems
-
-> ![MacOS](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/MacOS_wordmark_%282017%29.svg/1920px-MacOS_wordmark_%282017%29.svg.png) ![Windows 10](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Windows_10_Logo.svg/1920px-Windows_10_Logo.svg.png) ![Ubuntu](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Logo-ubuntu_no%28r%29-black_orange-hex.svg/1920px-Logo-ubuntu_no%28r%29-black_orange-hex.svg.png)
-
 # Experience
 
 > ## EstaciónPi
