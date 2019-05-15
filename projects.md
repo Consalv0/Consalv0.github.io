@@ -5,12 +5,15 @@ tagline: Here are my most precious and important projects!
 ---
 
 ---
+# EmptySource <a href="https://github.com/Consalv0/EmptySource" class="btn right"> Repository </a>
+
+> This is my working final proyect for university, the main goal is to make a basic framework using open source code bigger enough to make a multipltaform games. For now the proyect has 6 months of continous work. If you are interested in how do I code, this is the best sample to see. 
 
 # Deform shader for GGJ19 <a href="https://github.com/Indiees/superparty/tree/gonzalo" class="btn right"> Repository </a>
 
 > Example of shader using **Unity 3D**. You can give via C# script the positions to the shader, in the shader you can manipulate the radius and the force of the deformation, with this you can simulate explosions or sound affecting any geometry.
 
-![OGLApp Main](/DeformShader-O3.gif){:class="center"}
+![Deform Shader](/DeformShader-O3.gif){:class="center"}
 
 # OGLApp <a href="https://github.com/Consalv0/OGLApp" class="btn right"> Repository </a>
 
