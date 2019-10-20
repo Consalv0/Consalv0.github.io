@@ -8,4 +8,5 @@
 layout: home
 ---
 
-The blog is empty for now, soon i will post something but is not a promise. :P
+The blog is empty for now, soon i will post something but is not a promise.
+For now you can check my proyects and my profile in the tabs above.

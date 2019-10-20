@@ -29,10 +29,6 @@ Student of Video Game Programming in [SAE Institute](https://mexico.sae.edu/) si
 
 > ![Autodesk Maya](https://upload.wikimedia.org/wikipedia/en/7/75/Logo_of_Maya.png) ![Blender 3D](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Logo_Blender.svg/1920px-Logo_Blender.svg.png)
 
----
-
-> ![Adobe Photoshop](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1024px-Adobe_Photoshop_CC_icon.svg.png) ![Affinity Photo](https://upload.wikimedia.org/wikipedia/en/2/2f/Affinity_Photo_Logo_2017.png) ![Substance Painter 3D](https://www.allegorithmic.com/sites/default/files/SP_Black_Title_1.png)
-
 # Experience
 
 > ## EstaciónPi
