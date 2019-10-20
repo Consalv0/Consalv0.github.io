@@ -9,7 +9,7 @@ tagline: Here are my most precious and important projects!
 
 > This is my "in work" final proyect for my university, the main goal is to make a basic framework using open source code bigger enough to make multiplatform games. For now the proyect has 11 (November 2018 - October 2019) months of continous work. **If you are interested in how do I code, this is the best sample to see**.
 
-![OGLApp Main](/Sandbox_GWrHEHC9bN.png){:class="center"}
+![OGLApp Main](/Sandbox_upqRtqcrqh.png){:class="center"}
 
 # Deform shader for GGJ19 <a href="https://github.com/Indiees/superparty/tree/gonzalo" class="btn right"> Repository </a>
 
